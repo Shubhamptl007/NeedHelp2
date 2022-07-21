@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+.nav_css {
+    background: #2196f3 !important;
+    width: -webkit-fill-available;
+}
+
+.jumbotron {
+	background: #1976d2 !important;
+	margin-right: -17px;
+	margin-left: -17px;
+	clip-path: polygon(30% 0%, 70% 0%, 100% 0, 100% 100%, 66% 92%, 33% 100%, 0 92%, 0 0
+		);
+}

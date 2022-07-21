@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+.soul {
+	background: blue;
+	clip-path: polygon(30% 0%, 70% 0%, 100% 0, 100% 100%, 66% 92%, 33% 100%, 0 92%, 0 0
+		);
+}
+
+.register_page {
+	background: blue;
+	clip-path: polygon(30% 0%, 70% 0%, 100% 0, 100% 100%, 66% 92%, 33% 100%, 0 92%, 0 0
+		);
+	padding-bottom: 70px;
+	padding-top: 20px;
+}
